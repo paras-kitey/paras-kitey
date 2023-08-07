@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @paras-kitey.
 - 👀 Interested in android development.
--     Full Stack Java Developer
 - 📫 How to reach me - parasinreallife@gmail.com
 
 <!---
