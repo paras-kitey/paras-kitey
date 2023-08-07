@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paras-kitey.
-- 👀 I’m interested in android development.
-- 🌱 I’m currently learning Java and Android Studio.
-- 💞️ I’m looking to collaborate on any app related stuff.
+- 👀 Interested in android development.
+-     Full Stack Java Developer
 - 📫 How to reach me - parasinreallife@gmail.com
 
 <!---
