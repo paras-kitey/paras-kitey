@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paras-kitey.
-- 👀 Interested in android development.
+- 👀 Web Developer
 - 📫 How to reach me - parasinreallife@gmail.com
 
 <!---
